@@ -139,3 +139,5 @@ Am Ende des Tests sollen folgende Fragen beantwortet werden:
 * In welchen Situationen ist eine manuelle Prüfung notwendig?
 
 Das Ergebnis dient als Grundlage für eine mögliche Integration von KI in den Schadenprozess.
+
+你好
